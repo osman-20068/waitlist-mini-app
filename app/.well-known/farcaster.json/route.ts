@@ -5,7 +5,7 @@
     "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
   },
   "baseBuilder": {
-    "allowedAddresses": ["0x..."]
+    "allowedAddresses": ["0xfFf6C9d7b25C8fC320C6B5AF394978d638a247eb"]
   },
   "frame": {
     "version": "1",
